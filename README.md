@@ -31,6 +31,12 @@ How to use it?
 --------------
 
 - Add the ```varnish``` recipe
+- Update the varnish version to 3.0 or higher
 - Add this recipe ```chef-varnish-dashboard```
 - Go to http://yourproject.com:6085/html/
 - Voila!
+
+Need help?
+----------
+
+You can contact me on twitter: @theluctus
