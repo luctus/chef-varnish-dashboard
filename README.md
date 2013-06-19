@@ -34,6 +34,7 @@ How to use it?
 - Update the varnish version to 3.0 or higher
 - Add this recipe ```chef-varnish-dashboard```
 - Go to http://yourproject.com:6085/html/
+- It will ask you for a user/pass, enter the one you defined at the ```attributes/default.rb``` file
 - Voila!
 
 Need help?
