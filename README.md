@@ -1,7 +1,7 @@
 chef-varnish-dashboard
 ======================
 
-A chef recipe for the amazing Varnish Agent Dashboard (A real time Varnish Cache metrics dashboard)
+A chef recipe for the amazing Varnish Agent Dashboard (A real time Varnish Cache metrics dashboard).
 
 Requirements
 ------------
@@ -27,6 +27,7 @@ Varnish and other varnish-related services to allow remote control and monitorin
 (*): https://github.com/varnish/vagent2
 (**): https://github.com/pbruna/Varnish-Agent-Dashboard
 
+
 How to use it?
 --------------
 
@@ -36,6 +37,12 @@ How to use it?
 - Go to http://yourproject.com:6085/html/
 - It will ask you for a user/pass, enter the one you defined at the ```attributes/default.rb``` file
 - Voila!
+
+Tested in:
+----------
+
+- Ubuntu (precise 64)
+- Let me know if you try this recipe in another OS!
 
 Need help?
 ----------
